@@ -1,0 +1,23 @@
+{
+  "name": "ttfb-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devAzhar/ttfb-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devAzhar/ttfb-monitor/issues"
+  },
+  "homepage": "https://github.com/devAzhar/ttfb-monitor#readme",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "moment": "^2.29.1"
+  }
+}
